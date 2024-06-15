@@ -1,0 +1,582 @@
+Title,URL,Abstract,Year,Analysis
+Interface-induced dual-pinning mechanism enhances low-frequency electromagnetic wave loss,https://www.nature.com/articles/s41467-024-47537-5,"Improving the absorption of electromagnetic waves at low-frequency bands (2-8 GHz) is crucial for the increasing electromagnetic (EM) pollution brought about by the innovation of the fifth generation (5G) communication technology. However, the poor impedance matching and intrinsic attenuation of material in low-frequency bands hinders the development of low-frequency electromagnetic wave absorbing (EMWA) materials. Here we propose an interface-induced dual-pinning mechanism and establish a magnetoelectric bias interface by constructing bilayer core-shell structures of NiFe2O4(NFO)@BiFeO3(BFO)@polypyrrole (PPy). Such heterogeneous interface could induce distinct magnetic pinning of the magnetic moment in the ferromagnetic NFO and dielectric pinning of the dipole rotation in PPy. The establishment of the dual-pinning effect resulted in optimized impedance and enhanced attenuation at low-frequency bands, leading to better EMWA performance. The minimum reflection loss (RLmin) at thickness of 4.43 mm reaches -65.30 dB (the optimal absorption efficiency of 99.99997%), and the effective absorption bandwidth (EAB) can almost cover C-band (4.72 ~ 7.04 GHz) with low filling of 15.0 wt.%. This work proposes a mechanism to optimize low-frequency impedance matching with electromagnetic wave (EMW) loss and pave an avenue for the research of high-performance low-frequency absorbers.",2024,"Summary:
+The text discusses the importance of improving the absorption of electromagnetic waves at low-frequency bands due to the increasing electromagnetic pollution from 5G technology. The authors propose a dual-pinning mechanism using a magnetoelectric bias interface in a core-shell structure to enhance the performance of low-frequency electromagnetic wave absorbing materials. This approach results in optimized impedance and enhanced attenuation at low-frequency bands, leading to better absorption performance.
+
+Key Topics:
+1. Absorption of electromagnetic waves at low-frequency bands
+2. Impedance matching and attenuation of materials
+3. Dual-pinning mechanism using core-shell structures
+4. Magnetoelectric bias interface
+5. Optimization of impedance and absorption performance
+6. Reflection loss and absorption efficiency
+7. Effective absorption bandwidth
+
+Sentiment Analysis:
+The text conveys a positive sentiment towards the proposed mechanism for improving low-frequency impedance matching and absorption of electromagnetic waves. The authors highlight the significant advancements achieved in optimizing absorption efficiency and bandwidth, paving the way for high-performance low-frequency absor"
+Fractionation of Cell Suspensions in an Electromagnetic Force Field,https://www.nature.com/articles/182510a0,"Kolin, A.,Science,117, 134 (1953).ArticleADSCASGoogle ScholarLeenov, D., and Kolin, A.,J. Chem. Phys.,22, 683 (1954).ArticleADSCASGoogle ScholarKolin, A., Leenov, D., and Lichten, W.,Biochim. et Biophys. Acta(in the press).Kolin, A.,J. Chem. Phys.,22, 1628 (1954).ArticleADSCASGoogle ScholarKolin, A.,J. Appl. Phys.,25, 683 (1954).ArticleADSMathSciNetGoogle ScholarDownload references",1958,"Summary:
+The text mentions several scientific articles authored or co-authored by Kolin, A., Leenov, D., and Lichten, W. The articles cover topics in chemistry, biochemistry, biophysics, and applied physics. The publication dates range from 1953 to 1954, with some articles still in press at the time of writing.
+
+Key Topics:
+- Chemistry
+- Biochemistry
+- Biophysics
+- Applied Physics
+
+Sentiment Analysis:
+The text does not contain sentiment-based information."
+Focusing the electromagnetic field to 10−6λfor ultra-high enhancement of field-matter interaction,https://www.nature.com/articles/s41467-021-26662-5,"Focusing electromagnetic field to enhance the interaction with matter has been promoting researches and applications of nano electronics and photonics. Usually, the evanescent-wave coupling is adopted in various nano structures and materials to confine the electromagnetic field into a subwavelength space. Here, based on the direct coupling with confined electron oscillations in a nanowire, we demonstrate a tight localization of microwave field down to 10−6λ. A hybrid nanowire-bowtie antenna is further designed to focus the free-space microwave to this deep-subwavelength space. Detected by the nitrogen vacancy center in diamond, the field intensity and microwave-spin interaction strength are enhanced by 2.0 × 108and 1.4 × 104times, respectively. Such a high concentration of microwave field will further promote integrated quantum information processing, sensing and microwave photonics in a nanoscale system.",2021,"Summary:
+The text discusses the use of electromagnetic fields to enhance interactions with matter, particularly in the context of nano electronics and photonics research. The focus is on confining electromagnetic fields into subwavelength spaces using evanescent-wave coupling in nano structures. The study demonstrates tight localization of microwave fields using nanowires and a hybrid nanowire-bowtie antenna design. The enhanced field intensity and microwave-spin interaction strength have potential applications in quantum information processing, sensing, and microwave photonics in nanoscale systems.
+
+Key Topics:
+1. Electromagnetic field manipulation
+2. Nano electronics and photonics
+3. Evanescent-wave coupling
+4. Nanowire-based localization of microwave fields
+5. Hybrid nanowire-bowtie antenna design
+6. Quantum information processing
+7. Sensing applications
+8. Microwave photonics
+
+Sentiment Analysis:
+The overall tone of the text is positive and enthusiastic about the potential applications and advancements in nano electronics and photonics enabled by"
+Nondiffracting supertoroidal pulses and optical “Kármán vortex streets”,https://www.nature.com/articles/s41467-024-48927-5,"Supertoroidal light pulses, as space-time nonseparable electromagnetic waves, exhibit unique topological properties including skyrmionic configurations, fractal-like singularities, and energy backflow in free space, which however do not survive upon propagation. Here, we introduce the non-diffracting supertoroidal pulses (NDSTPs) with propagation-robust skyrmionic and vortex field configurations that persists over arbitrary propagation distances. Intriguingly, the field structure of NDSTPs has a similarity with the von Kármán vortex street, a pattern of swirling vortices in fluid and gas dynamics with staggered singularities that can stably propagate forward. NDSTPs will be of interest as directed channels for information and energy transfer applications.",2024,"Summary:
+The text discusses supertoroidal light pulses, which are electromagnetic waves with unique topological properties such as skyrmionic configurations and fractal-like singularities. These properties, however, do not survive upon propagation. The authors introduce non-diffracting supertoroidal pulses (NDSTPs) that have propagation-robust skyrmionic and vortex field configurations that persist over arbitrary distances. The field structure of NDSTPs is compared to the von Kármán vortex street in fluid dynamics, and the potential applications of NDSTPs in information and energy transfer are highlighted.
+
+Key topics:
+1. Supertoroidal light pulses with unique topological properties
+2. Non-diffracting supertoroidal pulses (NDSTPs) with robust field configurations
+3. Comparison to von Kármán vortex street in fluid dynamics
+4. Potential applications in information and energy transfer
+
+Sentiment analysis:
+The text conveys a positive sentiment, emphasizing the intriguing and"
+An electromagnetic field disrupts negative geotaxis inDrosophilavia a CRY-dependent pathway,https://www.nature.com/articles/ncomms5391,"Many higher animals have evolved the ability to use the Earth’s magnetic field, particularly for orientation.Drosophila melanogasteralso respond to electromagnetic fields (EMFs), although the reported effects are quite modest. Here we report that negative geotaxis in flies, scored as climbing, is disrupted by a static EMF, and this is mediated by cryptochrome (CRY), the blue-light circadian photoreceptor. CRYs may sense EMFs via formation of radical pairs of electrons requiring photoactivation of flavin adenine dinucleotide (FAD) bound near a triad of Trp residues, but mutation of the terminal Trp in the triad maintains EMF responsiveness in climbing. In contrast, deletion of the CRY C terminus disrupts EMF responses, indicating that it plays an important signalling role. CRY expression in a subset of clock neurons, or the photoreceptors, or the antennae, is sufficient to mediate negative geotaxis and EMF sensitivity. Climbing therefore provides a robust and reliable phenotype for studying EMF responses inDrosophila.",2014,"Summary:
+The text discusses how Drosophila melanogaster, a type of fruit fly, responds to electromagnetic fields (EMFs) and how this response is mediated by a protein called cryptochrome (CRY). The study found that a static EMF disrupts the negative geotaxis behavior in flies, which is the ability to climb against gravity. The researchers suggest that CRY may sense EMFs through the formation of radical pairs of electrons requiring photoactivation of flavin adenine dinucleotide (FAD) bound near specific amino acid residues. Mutations in these residues affect the flies' responsiveness to EMFs. The study also identifies the importance of the CRY C terminus in mediating EMF responses. The researchers conclude that studying climbing behavior in Drosophila provides a reliable method for investigating EMF responses.
+
+Key topics:
+1. Response of Drosophila melanogaster to electromagnetic fields
+2. Role of cryptochrome (CRY) in mediating EMF responses"
+Resolving the electromagnetic mechanism of surface-enhanced light scattering at single hot spots,https://www.nature.com/articles/ncomms1674,"Light scattering at nanoparticles and molecules can be dramatically enhanced in the 'hot spots' of optical antennas, where the incident light is highly concentrated. Although this effect is widely applied in surface-enhanced optical sensing, spectroscopy and microscopy, the underlying electromagnetic mechanism of the signal enhancement is challenging to trace experimentally. Here we study elastically scattered light from an individual object located in the well-defined hot spot of single antennas, as a new approach to resolve the role of the antenna in the scattering process. We provide experimental evidence that the intensity elastically scattered off the object scales with the fourth power of the local field enhancement provided by the antenna, and that the underlying electromagnetic mechanism is identical to the one commonly accepted in surface-enhanced Raman scattering. We also measure the phase shift of the scattered light, which provides a novel and unambiguous fingerprint of surface-enhanced light scattering.",2012,"Summary:
+The text discusses the enhancement of light scattering at nanoparticles and molecules in the 'hot spots' of optical antennas. This effect is commonly used in various applications such as sensing, spectroscopy, and microscopy. The study focuses on elastically scattered light from individual objects in well-defined hot spots of single antennas to understand the electromagnetic mechanism of signal enhancement. Experimental evidence shows that the intensity of scattered light scales with the fourth power of the local field enhancement by the antenna, and the mechanism is similar to surface-enhanced Raman scattering. The measurement of the phase shift of scattered light provides a new way to analyze surface-enhanced light scattering.
+
+Key Topics:
+1. Light scattering at nanoparticles and molecules
+2. Enhancement in 'hot spots' of optical antennas
+3. Experimental study on elastically scattered light
+4. Local field enhancement by antennas
+5. Electromagnetic mechanism in surface-enhanced light scattering
+
+Sentiment Analysis:
+The text presents a detailed and informative study on the enhancement of light scattering"
+Electromagnetic forming of AA1060 sheet based on mixed forces generated by a three-coil dual-power system,https://www.nature.com/articles/s41598-023-49590-4,"The electromagnetic force used in electromagnetic forming is mainly divided into attraction and repulsion. Dual-coil attractive electromagnetic forming can be used in the field of sheet pit repair. However, the magnetic field and eddy current generated by the two coils compete with each other, and the energy utilization rate is low. Therefore, a compensation coil is introduced, and an electromagnetic forming scheme of a three-coil dual-power sheet based on mixed force is proposed and verified by simulation. It is found that the three-coil mixed force can effectively improve the competition between the magnetic field and eddy current. The loading of the mixing force is not a simple superposition of attraction and repulsion, but the mutual promotion of the two. The forming displacement of the three-coil mixed force forming scheme is 582% higher than that of the dual-coil attraction forming scheme, and 89% higher than that of the attract first and then repel forming scheme. The forming effect of the three-coil mixing force is related to the number of turns of the compensation coil. The research results can improve the energy utilization rate of electromagnetic forming and provide a new idea for the loading scheme of electromagnetic forming force field.",2024,"Summary:
+The text discusses the use of electromagnetic force in electromagnetic forming, particularly focusing on the application of a three-coil dual-power sheet based on mixed force. The introduction of a compensation coil helps improve energy utilization by addressing competition between magnetic fields and eddy currents. The study shows that the three-coil mixed force formation scheme enhances forming displacement significantly compared to other schemes. The research results suggest potential improvements in energy efficiency and loading schemes for electromagnetic forming.
+
+Key Topics:
+1. Electromagnetic forming
+2. Dual-coil attractive electromagnetic forming
+3. Three-coil mixed force formation scheme
+4. Energy utilization
+5. Magnetic fields and eddy currents
+6. Forming displacement
+7. Compensation coil
+8. Loading schemes
+
+Sentiment Analysis:
+The text presents a positive sentiment overall, emphasizing the benefits and improvements achieved through the proposed three-coil mixed force formation scheme. The results indicate advancements in energy utilization and forming efficiency, showcasing a promising direction for electromagnetic forming applications."
+Magnetic-field tuning of the Casimir force,https://www.nature.com/articles/s41567-024-02521-0,"The quantum fluctuation-induced Casimir force can be either attractive or repulsive, depending on the dielectric permittivities and magnetic permeabilities of the materials involved. However, it is challenging to manipulate the dielectric permittivities of most materials using external fields. In contrast, the magnetic permeabilities of ferrofluids can be readily tuned by magnetic fields, which opens up the possibility of magnetic-field tuning of the Casimir force. Here, we demonstrate that this tuning can be achieved for a gold sphere and a silica plate immersed in water-based ferrofluids. Our theoretical calculations predict that, by varying the magnetic field, separation distance and ferrofluid volume fraction, the Casimir force can be tuned from attractive to repulsive over a wide range of parameters in this system. Experimentally, we develop a cantilever designed to conduct measurements within water-based ferrofluids. Using this setup, we observe the predicted transitions. These findings may lead to the development of switchable micromechanical devices based on the Casimir effect.",2024,"Summary:
+The text discusses the manipulation of the Casimir force, which can be attractive or repulsive based on the properties of the materials involved. The focus is on using magnetic fields to tune the Casimir force, particularly in water-based ferrofluids. The authors demonstrate through theoretical calculations and experiments that the Casimir force between a gold sphere and a silica plate immersed in ferrofluids can be tuned from attractive to repulsive by adjusting magnetic fields, separation distance, and ferrofluid volume fraction. The potential applications include the development of switchable micromechanical devices based on the Casimir effect.
+
+Key topics:
+1. Casimir force and its manipulation
+2. Magnetic field tuning of Casimir force
+3. Ferrofluid properties and applications
+4. Theoretical calculations and experimental setup
+5. Potential applications in micromechanical devices
+
+Sentiment analysis:
+The tone of the text is informative and positive, highlighting the potential for manipulating the Casimir force using magnetic fields"
+Implementing an electromagnetic tracking navigation system improves the precision of endoscopic transgastric necrosectomy in an ex vivo model,https://www.nature.com/articles/s41598-024-60647-w,"Endoscopic transgastric necrosectomy is crucial in the management of complications resulting from necrotizing pancreatitis. However, both real-time and visual-spatial information is lacking during the procedure, thereby jeopardizing a precise positioning of the endoscope. We conducted a proof-of-concept study with the aim of overcoming these technical difficulties. For this purpose, a three-dimensional (3D) phantom of a stomach and pancreatic necroses was 3D-printed based on spatial information from individual patient CT scans and subsequently integrated into a silicone torso. An electromagnetic (EM) sensor was adjusted inside the endoscope´s working channel. A software interface enabled real time visualization. The accuracy of this novel assistant system was tested ex vivo by four experienced interventional endoscopists who were supposed to reach seven targets inside the phantom in six different experimental runs of simulated endoscopic transgastric necrosectomy. Supported by endoscopic camera view combined with real-time 3D visualization, all endoscopists reached the targets with a targeting error ranging between 2.6 and 6.5 mm in a maximum of eight minutes. In summary, the EM tracking system might increase efficacy and safety of endoscopic transgastric necrosectomy at the experimental level by enhancing visualization. Yet, a broader feasibility study and further technical improvements are mandatory before aiming at implementation into clinical setting.",2024,"Summary:
+The text discusses a proof-of-concept study aimed at improving the accuracy of endoscopic transgastric necrosectomy through the use of a novel assistant system. The system involves a 3D-printed phantom of a stomach and pancreatic necroses, an electromagnetic sensor inside the endoscope, and a software interface for real-time visualization. The study showed that with this system, experienced endoscopists were able to reach targets with high accuracy in a simulated setting.
+
+Key Topics:
+1. Endoscopic transgastric necrosectomy
+2. Technical difficulties in positioning the endoscope
+3. 3D printing of a phantom for simulation
+4. Use of electromagnetic sensor for real-time visualization
+5. Accuracy and efficacy of the novel assistant system
+6. Need for further feasibility studies and technical improvements before clinical implementation
+
+Sentiment Analysis:
+Overall, the text conveys a positive sentiment towards the potential of the novel assistant system to improve the efficacy and safety of"
+Shaping metallic glasses by electromagnetic pulsing,https://www.nature.com/articles/ncomms10576,"With damage tolerance rivalling advanced engineering alloys and thermoplastic forming capabilities analogous to conventional plastics, metallic glasses are emerging as a modern engineering material. Here, we take advantage of their unique electrical and rheological properties along with the classic Lorentz force concept to demonstrate that electromagnetic coupling of electric current and a magnetic field can thermoplastically shape a metallic glass without conventional heating sources or applied mechanical forces. Specifically, we identify a process window where application of an electric current pulse in the presence of a normally directed magnetic field can ohmically heat a metallic glass to a softened state, while simultaneously inducing a large enough magnetic body force to plastically shape it. The heating and shaping is performed on millisecond timescales, effectively bypassing crystallization producing fully amorphous-shaped parts. This electromagnetic forming approach lays the groundwork for a versatile, time- and energy-efficient manufacturing platform for ultrastrong metals.",2016,"Summary:
+The text discusses the emerging use of metallic glasses as a modern engineering material due to their unique properties. It describes a novel method of shaping metallic glasses using electromagnetic coupling of electric current and a magnetic field, which allows for thermoplastic shaping without conventional heating sources or mechanical forces. This approach enables the rapid shaping of metallic glasses into fully amorphous parts, bypassing crystallization, and has the potential to create a versatile and efficient manufacturing platform for ultrastrong metals.
+
+Key topics:
+1. Metallic glasses as an engineering material
+2. Electromagnetic shaping of metallic glasses
+3. Unique electrical and rheological properties of metallic glasses
+4. Lorentz force concept
+5. Rapid shaping process on millisecond timescales
+6. Potential for efficient manufacturing of ultrastrong metals
+
+Sentiment analysis:
+The text conveys a positive sentiment towards the use of metallic glasses and the novel electromagnetic forming approach, highlighting the potential benefits of this method for efficient manufacturing of ultrastrong metals. The language"
+Electromagnetic Phenomena of Natural Origin in the 1.0–150 C./S. Band,https://www.nature.com/articles/1771219a0,"Willis, A. F.,Nature,161, 887 (1948).ArticleADSGoogle ScholarAarons, J., and Henissart, M.,Nature,172, 682 (1953).ArticleADSCASGoogle ScholarDownload references",1956,"Summary:
+The text mentions two references from scientific articles published in Nature journal in 1948 and 1953 by authors Willis, A. F., Aarons, J., and Henissart, M. The references provide information on research findings or studies conducted by these authors.
+
+Key Topics:
+1. Scientific research
+2. Publication in Nature journal
+3. Authors: Willis, A. F., Aarons, J., and Henissart, M.
+
+Sentiment Analysis:
+The text does not contain specific information to determine sentiment as it mainly provides references to scientific articles without expressing any emotions or opinions."
+Continuity equation for the flow of Fisher information in wave scattering,https://www.nature.com/articles/s41567-024-02519-8,"Using waves to explore our environment is a widely used paradigm, ranging from seismology to radar technology, and from biomedical imaging to precision measurements. In all these fields, the central aim is to gather as much information as possible about an object of interest by sending a probing wave at it and processing the information delivered back to a detector. Here we demonstrate that an electromagnetic wave scattered at an object carries locally defined and conserved information about all of the object’s constitutive parameters. Specifically, we introduce the density and flux of Fisher information for general types of wave fields and identify the corresponding sources and sinks of information through which all these new quantities satisfy a fundamental continuity equation. We experimentally verify our theoretical predictions by studying a movable object embedded in a disordered environment and by measuring the corresponding Fisher information flux at microwave frequencies. Our results improve the understanding of the generation and propagation of information and open up possibilities for tracking and designing the flow of information even in complex environments.",2024,"Summary:
+The text discusses the use of waves in various scientific fields to gather information about objects of interest. It introduces the concept of Fisher information density and flux in scattered electromagnetic waves, highlighting how information about an object's constitutive parameters can be extracted and analyzed through wave interactions. The authors demonstrate their theoretical predictions through experimental verification using microwave frequencies, showing the potential for improved understanding and control of information flow in complex environments.
+
+Key Topics:
+1. Use of waves for exploration and information gathering
+2. Fisher information density and flux in scattered electromagnetic waves
+3. Experimental verification of theoretical predictions
+4. Information generation and propagation in complex environments
+
+Sentiment Analysis:
+The text conveys a positive sentiment, emphasizing the significance of using waves for exploring and understanding our environment. The experimental verification of theoretical predictions adds credibility to the study's findings, suggesting potential advancements in tracking and controlling information flow."
+All electromagnetic scattering bodies are matrix-valued oscillators,https://www.nature.com/articles/s41467-023-43221-2,"Scattering theory is the basis of all linear optical and photonic devices, whose spectral response underpins wide-ranging applications from sensing to energy conversion. Unlike the Shannon theory for communication channels, or the Fano theory for electric circuits, understanding the limits of spectral wave scattering remains a notoriously challenging open problem. We introduce a mathematical scattering representation that inherently embeds fundamental principles of causality and passivity into its elemental degrees of freedom. We use this representation to reveal strong constraints in the mathematical structure of scattered fields, and to develop a general theory of the maximum radiative heat transfer in the near field, resolving a long-standing open question. Our approach can be seamlessly applied to high-interest applications across nanophotonics, and appears extensible to general classical and quantum scattering theory.",2023,"Summary:
+The text discusses the importance of scattering theory in linear optical and photonic devices, highlighting its relevance in various applications such as sensing and energy conversion. It points out the challenges in understanding the limits of spectral wave scattering and introduces a new mathematical scattering representation that incorporates principles of causality and passivity. The authors use this representation to identify constraints in scattered fields and develop a theory on maximum radiative heat transfer in the near field, addressing a longstanding open question. The approach is suggested to have broad applicability in nanophotonics and potentially in classical and quantum scattering theory.
+
+Key Topics:
+1. Scattering theory in linear optical and photonic devices
+2. Spectral response and applications in sensing and energy conversion
+3. Mathematical scattering representation with principles of causality and passivity
+4. Constraints in scattered fields and maximum radiative heat transfer
+5. Application to nanophotonics and potential extension to classical and quantum scattering theory
+
+Sentiment Analysis:
+The text conveys a positive"
+A Modified Source Theory of Electromagnetic Propagation,https://www.nature.com/articles/202375a0,"Stephenson, L. M.,Proc. Inst. Elec. Eng., No. 9, 1706 (1963).Cullwick, E. G.,Electromagnetism and Relativity, 78, 230 (Longmans, Green and Co., 1957).MATHGoogle ScholarEpstein, L.,Amer. J. Phys., 913 (December 1963).Download references",1964,"Summary:
+The text mentions references to works by Stephenson, Cullwick, and Epstein from the 1950s and 1960s related to electromagnetism and relativity. These references are likely scientific papers or books published in those years.
+
+Key Topics:
+1. Electromagnetism
+2. Relativity
+3. Physics
+
+Sentiment Analysis:
+The text does not contain any sentiment to analyze as it mainly lists references to scientific works."
+Enhanced emergent electromagnetic inductance in Tb5Sb3due to highly disordered helimagnetism,https://www.nature.com/articles/s42005-024-01656-z,"In helimagnetic metals, ac current-driven spin motions can generate emergent electric fields acting on conduction electrons, leading to emergent electromagnetic induction (EEMI). Recent experiments reveal the EEMI signal generally shows a strongly current-nonlinear response. In this study, we investigate the EEMI of Tb5Sb3, a short-period helimagnet. Using small angle neutron scattering we show that Tb5Sb3hosts highly disordered helimagnetism with a distribution of spin-helix periodicity. The current-nonlinear dynamics of the disordered spin helix in Tb5Sb3indeed shows up as the nonlinear electrical resistivity (real part of ac resistivity), and even more clearly as a nonlinear and huge EEMI (imaginary part of ac resistivity) response. The magnitude of the EEMI reaches as large as several tens of μH for Tb5Sb3 devices on the scale of several tens of μm, originating to noncollinear spin textures possibly even without long-range helimagnetic order.",2024,"Summary:
+The text discusses the phenomenon of emergent electromagnetic induction (EEMI) in helimagnetic metals, specifically focusing on Tb5Sb3 as a short-period helimagnet. The study uses small angle neutron scattering to investigate the highly disordered helimagnetism in Tb5Sb3, revealing a distribution of spin-helix periodicity. The research shows that the current-nonlinear dynamics of the disordered spin helix in Tb5Sb3 results in nonlinear electrical resistivity and a significant EEMI response. The EEMI signal exhibits a strongly current-nonlinear behavior, with the magnitude reaching several tens of μH for Tb5Sb3 devices.
+
+Key Topics:
+1. Helimagnetic metals
+2. Emergent electromagnetic induction (EEMI)
+3. Tb5Sb3 as a short-period helimagnet
+4. Small angle neutron scattering
+5. Disordered helimagnetism and spin-helix periodicity
+6. Non"
+Transverse photon spin of bulk electromagnetic waves in bianisotropic media,https://www.nature.com/articles/s41566-019-0521-4,"Photons possess spin degree of freedom, which plays an important role in various applications such as optical communications, information processing and sensing. In isotropic media, photon spin is aligned with the propagation direction of light, obeying the principle of spin momentum locking. Interestingly, surface waves decaying away from an interface have a photon spin transverse to its propagation, opening exciting opportunities for the observation of spin-dependent excitation in confined systems. Here, we propose and realize transverse photon spin (T-spin) in a bulk medium, without relying on the presence of any interfaces. We show the mapping of the T-spin of surface modes to that of the bulk modes by introducing bianisotropy into the medium. We further discover that the interface between two bianisotropic media of opposite orientations supports edge-dependent propagating modes with tunable cutoff frequencies. Our results provide a new platform for manipulating the spin–orbit interaction of electromagnetic waves.",2019,"Summary:
+The text discusses the spin degree of freedom of photons and its significance in applications like optical communications, information processing, and sensing. It highlights the phenomenon of photon spin being aligned with the light's propagation direction in isotropic media but transverse to the propagation in surface waves decaying from an interface. The researchers propose and demonstrate the existence of transverse photon spin (T-spin) in a bulk medium without the need for interfaces, achieved by introducing bianisotropy. They show how the T-spin of surface modes can be mapped to bulk modes and discover edge-dependent propagating modes at the interface of bianisotropic media with opposite orientations, offering opportunities for manipulating the spin-orbit interaction of electromagnetic waves.
+
+Key Topics:
+1. Photon spin degree of freedom
+2. Spin momentum locking
+3. Transverse photon spin (T-spin)
+4. Bianisotropy in the medium
+5. Spin-dependent excitation in confined systems
+6. Manipulating spin-orbit interaction of electromagnetic waves"
+A Paradox in the Interaction of the Gravitational and Electromagnetic Fields ?,https://www.nature.com/articles/226619a0,The assumption that the extent of the interaction of the electromagnetic and gravitational fields is fundamentally dependent on the frequency of the electromagnetic field is consistent with data on the deflexion of radiation by massive bodies.,1970,"Summary:
+The text discusses the assumption that the interaction between electromagnetic and gravitational fields depends on the frequency of the electromagnetic field. This assumption is supported by data on how radiation is deflected by massive bodies.
+
+Key Topics:
+1. Interaction of electromagnetic and gravitational fields
+2. Frequency dependence of the interaction
+3. Deflexion of radiation by massive bodies
+
+Sentiment Analysis:
+The tone of the text is neutral and scientific, focusing on presenting a hypothesis and supporting it with data."
+Scattering of Electromagnetic Waves by Atmospheric Turbulence: Scattering of Short Radio Waves by Atmospheric Turbulence,https://www.nature.com/articles/1661102a0,"Katzin, M., Bauchman, R. W., and Binnian, W.,Proc. Inst. Rad. Eng.,35, 891 (1947).Google ScholarRocco, M. D., and Smyth, J. B.,Proc. Inst. Rad. Eng.,37, 1195 (1949).Google ScholarPekeris, C. L.,Proc. Inst. Rad. Eng.,35, 453 (1947).Google ScholarMegaw, E. C. S. (see preceding communication).Booker, H. G., and Gordon, W. E.,Proc. Inst. Rad. Eng.,38, 401 (1950).Google ScholarPekeris, C. L.,Phys. Rev.,71, 268 (1947).ArticleADSGoogle ScholarBullington, K.,Proc. Inst. Rad. Eng.,38, 27 (1950).Google ScholarDownload references",1950,"Summary:
+The text consists of references to various scientific publications in the field of engineering and physics from the late 1940s to early 1950s. The references include authors such as Katzin, Bauchman, Binnian, Rocco, Smyth, Pekeris, Megaw, Booker, Gordon, and Bullington, published in journals like Proceedings of the Institute of Radio Engineers and Physical Review.
+
+Key Topics:
+1. Engineering
+2. Physics
+3. Radio Engineering
+4. Scientific Publications
+
+Sentiment Analysis:
+The text contains a neutral tone as it primarily lists references to scientific publications without expressing any sentiment or opinion."
+Light makes atoms behave like electromagnetic coils,https://www.nature.com/articles/d41586-024-00889-w,"Basini, M.et al.Nature628, 534–539 (2024).ArticleGoogle ScholarDavies, C. S.et al.Nature628, 540–544 (2024).ArticleGoogle ScholarEinstein, A. & de Haas, W. J.Proc. K. Ned. Akad. Wet.18, 696–711 (1915).Google ScholarZhang, L. & Niu, Q.Phys. Rev. Lett.112, 085503 (2014).ArticleGoogle ScholarGaranin, D. A. & Chudnovsky, E. M.Phys. Rev. B92, 024421 (2015).ArticleGoogle ScholarDornes, C.et al.Nature565, 209–212 (2019).ArticlePubMedGoogle ScholarTauchert, S. R.et al.Nature602, 73–77 (2022).ArticlePubMedGoogle ScholarBarnett, S. J.Phys. Rev.6, 239–270 (1915).ArticleGoogle ScholarJuraschek, D. M., Fechner, M., Balatsky, A. V. & Spaldin, N. A.Phys. Rev. Mater.1, 014401 (2017).ArticleGoogle ScholarNova, T. F.et al.Nature Phys.13, 132–137 (2017).ArticleGoogle ScholarJuraschek, D. M., Neuman, T. & Narang, P.Phys. Rev. Res.4, 013129 (2022).ArticleGoogle ScholarLuo, J.et al.Science382, 698–702 (2023).ArticleGoogle ScholarChaudhary, S., Juraschek, D. M., Rodriguez-Vega, M. & Fiete, G. A. Preprint athttps://arxiv.org/abs/2306.11630(2023).Geilhufe, R. M. & Hergert, W.Phys. Rev. B107, L020406 (2023).ArticleGoogle ScholarZhang, X.-W., Ren, Y., Wang, C., Cao, T. & Xiao, D.Phys. Rev. Lett.130, 226302 (2023).ArticlePubMedGoogle ScholarUeda, H.et al.Nature618, 946–950 (2023).ArticlePubMedGoogle ScholarDownload references",2024,"Summary:
+The provided text includes references to various scientific articles published in journals such as Nature, Physical Review Letters, and Proceedings of the Royal Netherlands Academy of Arts and Sciences. The articles cover a range of topics in physics and materials science, including research on magnetic materials, condensed matter physics, quantum phenomena, and more. The publication dates of the articles range from 1915 to 2024, indicating a wide span of research over the years.
+
+Key Topics:
+1. Magnetic materials
+2. Condensed matter physics
+3. Quantum phenomena
+4. Materials science
+
+Sentiment Analysis:
+The text does not provide specific details about the sentiment expressed in the referenced articles, as it mainly lists the publication details and titles. Therefore, sentiment analysis cannot be accurately determined from the text provided."
+Narrowband electromagnetic emissions from Jupiter's magnetosphere,https://www.nature.com/articles/302385a0,"Recent studies of wideband plasma wave data from Voyagers 1 and 2 have revealed the existence of narrowband radio emissions escaping from Jupiter's magnetosphere in the frequency range 1–12 kHz. These narrowband emissions are very similar to narrowband emissions previously discovered near Earth and Saturn, and are believed to be produced by mode conversion from locally generated upper hybrid resonance waves at odd half-integral harmonics of the electron cyclotron frequency. This mode conversion process is believed to be one of the basic mechanisms for generating planetary radio emissions.",1983,"Summary:
+The text discusses recent studies that have found narrowband radio emissions escaping from Jupiter's magnetosphere in the frequency range of 1-12 kHz. These emissions are similar to ones found near Earth and Saturn and are thought to be produced by a process called mode conversion from locally generated upper hybrid resonance waves at odd half-integral harmonics of the electron cyclotron frequency. This mode conversion process is considered a fundamental mechanism for generating planetary radio emissions.
+
+Key Topics:
+1. Wideband plasma wave data from Voyagers 1 and 2
+2. Narrowband radio emissions from Jupiter's magnetosphere
+3. Similarities to emissions near Earth and Saturn
+4. Mode conversion from upper hybrid resonance waves
+5. Mechanisms for generating planetary radio emissions
+
+Sentiment Analysis:
+The text presents scientific findings and explanations without expressing any sentiment or opinion. It is neutral and focuses on reporting the results of recent studies regarding narrowband radio emissions from Jupiter's magnetosphere."
+Phytotoxicity of a UHF Electromagnetic Field,https://www.nature.com/articles/241291a0,"IT is known that ultra-high frequency (UHF) fields are selectively toxic to plants and seeds1, but the reasons for this have not been investigated. We have studied the way in which the toxicity of a UHF field is related to various parameters of seeds by observing the effect of the radiation on germination.",1973,"Summary:
+The text discusses the toxicity of ultra-high frequency (UHF) fields on plants and seeds. The authors mention that while it is known that UHF fields are selectively toxic, the reasons for this have not been explored. The study focuses on investigating the relationship between the toxicity of UHF fields and various seed parameters by observing the effects of radiation on germination.
+
+Key Topics:
+1. Ultra-high frequency (UHF) fields
+2. Toxicity to plants and seeds
+3. Effects on germination
+4. Relationship between UHF fields and seed parameters
+
+Sentiment Analysis:
+The tone of the text is neutral and focused on presenting research findings and objectives. There is no explicit sentiment conveyed towards the topic of UHF field toxicity on plants and seeds."
+A Relativity-predicted Mechanical Effect in the Electromagnetic Field,https://www.nature.com/articles/111325a0,"THE present writer would certainly starve if his bread depended on supplying a certain experimental verification here asked for. It should, however, be mere Boys' play to those who measure the gravitational constant with a little pile of sovereigns and a quartz fibre, or who photograph the wake of a flying bullet. The mathematical argument leading to the prediction indicated below is sent to England by the mail carrying this letter, for publication, but I cannot say where and when it will appear.",1923,"Summary:
+The writer of the text acknowledges the difficulty of providing experimental verification for a certain prediction. They mention that measuring the gravitational constant or photographing the wake of a flying bullet should be relatively simple tasks for those with the necessary equipment. The writer has sent a mathematical argument supporting a prediction to be published in England, but does not specify the exact publication details.
+
+Key Topics:
+1. Experimental verification
+2. Gravitational constant measurement
+3. Wake of a flying bullet
+4. Mathematical argument
+5. Prediction publication
+
+Sentiment Analysis:
+The tone of the text appears to be somewhat light-hearted and self-aware. The writer acknowledges their limitations in providing experimental verification while expressing confidence in the abilities of others to carry out certain measurements. The mention of sending a mathematical argument for publication indicates a level of anticipation or excitement about sharing their work with a wider audience."
+A Spherically Symmetrical Non-Static Electromagnetic Field,https://www.nature.com/articles/159642a0,"WE have recently found the most general non-static solution of spherical symmetry satisfying the relativistic equations of electromagnetism, namely, in the usual notation1. The line element is The surviving components of the tensorTÂµÎ½are four: Both Ï and ƒ(m) are arbitrary. We note thatmis conserved along a line of flow.",1947,"Summary:
+The text discusses the discovery of a general non-static solution of spherical symmetry that satisfies the relativistic equations of electromagnetism. It presents the line element and mentions the surviving components of the tensor TÂµÎ½. The text also highlights that both Ï and ƒ(m) are arbitrary, and mentions the conservation of m along a line of flow.
+
+Key Topics:
+1. Non-static solution of spherical symmetry
+2. Relativistic equations of electromagnetism
+3. Line element
+4. Tensor components
+5. Conservation of m
+
+Sentiment Analysis:
+The text appears to present factual information about a scientific discovery without expressing any sentiment or emotion."
+Electromagnetic Level-Shift and Effect of Radiation Field,https://www.nature.com/articles/162143b0,"THE brilliant experiment of Lamb and Retherford1has conclusively demonstrated that in the hydrogen atom the 2S-level is higher than the 2P1/2-level by about 10 megacycles, a result which reveals a breakdown of the Dirac equation of the electron when applied even to the simplest of the atoms. In a fundamental paper, Bethe2has given an explanation of the observed level-shift on the assumption that the transverse self-energy of the electron, in general, depends on the state in which the electron is.",1948,"Summary:
+The text discusses an experiment conducted by Lamb and Retherford that showed a discrepancy in energy levels within the hydrogen atom, specifically that the 2S-level is higher than the 2P1/2-level by about 10 megacycles. This result challenges the accuracy of the Dirac equation when applied to hydrogen. Bethe proposed an explanation for this level-shift based on the idea that the electron's transverse self-energy depends on its state.
+
+Key Topics:
+1. Experiment by Lamb and Retherford on energy levels in hydrogen atom
+2. Discrepancy between 2S and 2P1/2 levels
+3. Dirac equation and its limitations
+4. Bethe's explanation involving electron's self-energy dependence on state
+
+Sentiment Analysis:
+The tone of the text is neutral and focused on presenting scientific findings and theories related to the energy levels in the hydrogen atom. There is no explicit sentiment expressed in the text."
+Application of the Hall Effect in a Semi-conductor to the Measurement of Power in an Electromagnetic Field,https://www.nature.com/articles/173041a0,"IT is well known that if, in a piece of semi-conductor such as germanium or silicon, a magnetic field is set up along thez-axis, as defined by a Cartesian coordinate system, with current flow at right angles along they-axis, then an electromotive force appears, due to the Hall effect1along thex-axis. This electromotive force at any instant is given by:whereBis instantaneous flux density in gauss;Icis instantaneous current in amperes ;Ris Hall coefficient in volt. cm. per ampere gauss (for ‘n’ type germaniumRhas a value of about 8 × 10−5) ; andtis thickness in cm. along thez-axis of the sample of material exhibiting the Hall effect. The particular virtue of a semi-conductor like germanium or silicon for this purpose is that it possesses a comparatively large Hall coefficient and allows a substantial penetration of the field into the material even at ultra-high frequencies.",1954,"Summary:
+The text discusses the Hall effect in semiconductors such as germanium or silicon when a magnetic field is applied along the z-axis and current flows along the y-axis. It explains the generation of an electromotive force along the x-axis due to this effect. The formula for calculating the electromotive force is provided, considering factors like flux density, current, Hall coefficient, and thickness of the material. Semiconductors like germanium and silicon are preferred for this application due to their large Hall coefficient and ability to penetrate magnetic fields even at high frequencies.
+
+Key Topics:
+1. Hall effect in semiconductors
+2. Application of magnetic field and current flow
+3. Electromotive force generation
+4. Factors affecting electromotive force (flux density, current, Hall coefficient, thickness)
+5. Characteristics of germanium and silicon for Hall effect applications
+
+Sentiment Analysis:
+The text presents technical information about the Hall effect in semiconductors without expressing any sentiment. It"
+Importance of antennae for orientation of insects in a non-uniform microwave electromagnetic field,https://www.nature.com/articles/260522a0,"MICROWAVES can affect living organisms in different ways1. Radiation of high intensity is lethal, due to the thermal effect on the living tissues. Different organs are selectively sensitive both in vertebrates2and in insects3. Behavioural studies with rats have demonstrated that, in a choice situation, the animals will respond to an electromagnetic field of a rather low intensity, by leaving it4. Our investigations revealed that insects respond to the intensity gradient of a non-uniform microwave electromagnetic field in a similar way. In an arena illuminated by a non-uniform field insects carry out oriented movements avoiding the regions which are more intensely illuminated. In this paper we analyse the involvement of antennae in the orientation mechanisms underlying the avoidance response.",1976,"Summary:
+The text discusses how microwaves can affect living organisms, both in terms of their lethal effects due to thermal exposure and their impact on behavior. Studies have shown that organisms like rats and insects can respond to electromagnetic fields of varying intensities, with insects exhibiting oriented movements to avoid regions with higher microwave intensity. The focus of the analysis in the paper is on the role of antennae in the orientation mechanisms of insects in response to microwave fields.
+
+Key Topics:
+1. Effects of microwaves on living organisms
+2. Selective sensitivity of different organs to microwaves
+3. Behavioral responses of rats and insects to electromagnetic fields
+4. Oriented movements of insects in response to non-uniform microwave fields
+5. Role of antennae in insect orientation mechanisms
+
+Sentiment Analysis:
+The tone of the text is neutral and scientific, focusing on observational data and analysis of the effects of microwaves on living organisms. There is no explicitly positive or negative sentiment expressed in the text."
+Existence of Electromagnetic-Hydrodynamic Waves,https://www.nature.com/articles/150405d0,"IF a conducting liquid is placed in a constant magnetic field, every motion of the liquid gives rise to anE. M. F. which produces electric currents. Owing to the magnetic field, these currents give mechanical forces which change the state of motion of the liquid. Thus a kind of combined electromagnetic-hydro-dynamic wave is produced which, so far as I know, has as yet attracted no attention.",1942,"Summary:
+The text discusses the phenomenon that occurs when a conducting liquid is placed in a constant magnetic field. It explains how the motion of the liquid generates an electromotive force (E.M.F.) that produces electric currents. These currents, influenced by the magnetic field, create mechanical forces that alter the liquid's motion, leading to the formation of a unique combined electromagnetic-hydro-dynamic wave.
+
+Key Topics:
+1. Conducting liquid in a magnetic field
+2. Electromotive force (E.M.F.)
+3. Electric currents
+4. Mechanical forces
+5. Combined electromagnetic-hydro-dynamic wave
+
+Sentiment Analysis:
+The text presents a neutral tone as it describes a scientific phenomenon without expressing any positive or negative sentiment."
+Combining ultrahigh index with exceptional nonlinearity in resonant transition metal dichalcogenide nanodisks,https://www.nature.com/articles/s41566-024-01444-9,"Second-order nonlinearity in solids gives rise to a plethora of unique physical phenomena ranging from piezoelectricity and optical rectification to optical parametric amplification, spontaneous parametric down-conversion and the generation of entangled photon pairs. Monolayer transition metal dichalcogenides, such as MoS2, exhibit one of the highest known second-order nonlinear coefficients. However, the monolayer nature of these materials prevents the fabrication of resonant objects exclusively from the material itself, necessitating the use of external structures to achieve the optical enhancement of nonlinear processes. Here we exploit the 3R phase of a molybdenum disulfide multilayer for resonant nonlinear nanophotonics. The lack of inversion symmetry—even in the bulk of the material—provides a combination of massive second-order susceptibility, extremely high and anisotropic refractive index in the near-infrared region (n> 4.5) and low absorption losses, making 3R-MoS2highly attractive for nonlinear nanophotonics. We demonstrate this by fabricating 3R-MoS2nanodisks of various radii, which support resonant anapole states, and observing substantial (>100-fold) enhancement of second-harmonic generation in a single resonant nanodisk compared with an unpatterned flake of the same thickness. The enhancement is maximized at the spectral overlap between the anapole state of the disk and the material resonance of the second-order susceptibility. Our approach unveils a powerful tool for enhancing the entire spectrum of optical second-order nonlinear processes in nanostructured van der Waals materials, thereby paving the way for nonlinear and quantum high-index transition metal dichalcogenide nanophotonics.",2024,"Summary:
+The text discusses the utilization of the 3R phase of molybdenum disulfide multilayers for resonant nonlinear nanophotonics applications. The unique properties of the material, such as high second-order nonlinear coefficients and anisotropic refractive index, make it attractive for enhancing optical nonlinear processes. By fabricating 3R-MoS2 nanodisks, researchers were able to achieve significant enhancement of second-harmonic generation compared to unpatterned flakes, demonstrating the potential for enhancing optical nonlinear processes in van der Waals materials.
+
+Key Topics:
+1. Second-order nonlinear phenomena in solids
+2. Monolayer transition metal dichalcogenides, particularly MoS2
+3. Resonant nonlinear nanophotonics
+4. 3R phase of molybdenum disulfide multilayers
+5. Anapole states in nanodisks
+6. Enhancement of second-harmonic generation
+7. High-index transition metal"
+Corner- and edge-mode enhancement of near-field radiative heat transfer,https://www.nature.com/articles/s41586-024-07279-2,"It is well established that near-field radiative heat transfer (NFRHT) can exceed Planck’s blackbody limit1by orders of magnitude owing to the tunnelling of evanescent electromagnetic frustrated and surface modes2,3,4, as has been demonstrated experimentally for NFRHT between two large parallel surfaces5,6,7and between two subwavelength membranes8,9. However, although nanostructures can also sustain a much richer variety of localized electromagnetic modes at their corners and edges10,11, the contributions of such additional modes to further enhancing NFRHT remain unexplored. Here we demonstrate both theoretically and experimentally a physical mechanism of NFRHT mediated by the corner and edge modes, and show that it can dominate the NFRHT in the ‘dual nanoscale regime’ in which both the thickness of the emitter and receiver, and their gap spacing, are much smaller than the thermal photon wavelengths. For two coplanar 20-nm-thick silicon carbide membranes separated by a 100-nm vacuum gap, the NFRHT coefficient at room temperature is both predicted and measured to be 830 W m−2K−1, which is 5.5 times larger than that for two infinite silicon carbide surfaces separated by the same gap, and 1,400 times larger than the corresponding blackbody limit accounting for the geometric view factor between two coplanar membranes. This enhancement is dominated by the electromagnetic corner and edge modes, which account for 81% of the NFRHT between the silicon carbide membranes. These findings are important for future NFRHT applications in thermal management and energy conversion.",2024,"Summary:
+The text discusses the phenomenon of near-field radiative heat transfer (NFRHT) and how it can exceed Planck's blackbody limit by utilizing corner and edge modes in nanostructures. The study demonstrates both theoretically and experimentally that these additional modes can significantly enhance NFRHT in a 'dual nanoscale regime'. The research shows that for two silicon carbide membranes separated by a small vacuum gap, the NFRHT coefficient is much higher when considering corner and edge modes compared to traditional NFRHT mechanisms. This enhancement has potential applications in thermal management and energy conversion.
+
+Key Topics:
+1. Near-field radiative heat transfer (NFRHT)
+2. Tunelling of evanescent electromagnetic modes
+3. Corner and edge modes in nanostructures
+4. Dual nanoscale regime
+5. Silicon carbide membranes
+6. Enhancement of NFRHT
+7. Thermal management and energy conversion applications
+
+Sentiment Analysis:
+The text presents exciting findings regarding the potential"
+On an electromagnetic calculation of ionospheric conductance that seems to override the field line integrated conductivity,https://www.nature.com/articles/s41598-024-58512-x,"The ionospheric conductance is the major quantity that determines the interaction of the magnetosphere with the ionosphere, where the magnetosphere is the large region of space affected by Earth’s geomagnetic field, and the ionosphere is its electrically conducting inner boundary, lying right on the edge of the atmosphere. Storms and substorms in space dissipate their energy through ionospheric currents, which heat the atmosphere and disrupt satellite orbits. The ionospheric conductance has, heretofore, been estimated using the staticized physics known as electrostatic theory, which finds that it can be computed by integrating the zero-frequency conductivity along the lines of Earth’s geomagnetic field. In this work we test this supposition by deriving an electromagnetic solution for collisional plasma, and applying it to obtain a first-ever fully-electromagnetic calculation of ionospheric conductance. We compare the results to the field line integrated conductivity, and find significant differences on all scales investigated. We find short-wavelength, mode-mixing, and wave-admittance effects that were completely unexpected. When this theoretical result is matched with recent observational findings for the scale of the magnetosphere-ionosphere coupling-interaction, there results a situation where small- to intermediate-scale effects really may contribute to global modeling of the Sun-Earth system.",2024,"Summary:
+The text discusses the importance of ionospheric conductance in the interaction between the magnetosphere and ionosphere. It explains how storms and substorms in space affect the ionosphere, leading to disruptions in satellite orbits. The traditional method of estimating ionospheric conductance using electrostatic theory is challenged in this work, which introduces an electromagnetic solution for collisional plasma to calculate ionospheric conductance. The study finds significant differences compared to previous methods, uncovering unexpected effects such as mode-mixing and wave-admittance. The results suggest that small- to intermediate-scale effects could play a crucial role in global modeling of the Sun-Earth system.
+
+Key Topics:
+1. Ionospheric conductance
+2. Magnetosphere-ionosphere interaction
+3. Storms and substorms in space
+4. Electrostatic theory
+5. Electromagnetic solution for collisional plasma
+6. Mode-mixing and wave-admittance effects
+7. Global modeling of the Sun-E"
+Electromagnetic near-field mutual coupling suppression with active Janus sources,https://www.nature.com/articles/s42005-024-01569-x,"Electric dipoles and magnetic dipoles are the most fundamental particles in electromagnetic theory. Huygens and Janus sources, formed by the orthogonal combination of electric and magnetic dipoles, both show good directionality in the near field. Although the Huygens source has been widely used in antennas and metasurfaces, the applications of Janus source are heretofore limited. In this paper we report the physical construction of an active Janus source. Through full-wave simulations within the parallel plate waveguide (PPW) environment, we show that our source achieves the directional electromagnetic near-field and quasi-isotropic far-field requisite of the Janus source. Using this fact, we demonstrate that two active Janus and Huygens sources in close proximity (about 0.10 to 0.25 wavelengths) achieve a near 1000-fold reduced mutual coupling compared to electric dipole sources. Particularly, the simultaneous achievement of strong mutual coupling suppression and quasi-isotropic radiation make the Janus source an ideal candidate for consideration in future compact multi-input multi-output (MIMO) communication systems.",2024,"Summary:
+The text discusses the significance of electric dipoles and magnetic dipoles in electromagnetic theory, as well as the concept of Huygens and Janus sources formed by combining electric and magnetic dipoles. The paper presents the physical construction of an active Janus source and demonstrates its directional electromagnetic near-field and quasi-isotropic far-field properties through simulations in a parallel plate waveguide environment. The study shows that using active Janus and Huygens sources in close proximity can significantly reduce mutual coupling compared to electric dipole sources, making Janus sources promising for compact multi-input multi-output (MIMO) communication systems.
+
+Key Topics:
+1. Electric dipoles and magnetic dipoles in electromagnetic theory
+2. Huygens and Janus sources
+3. Active Janus source construction
+4. Directional electromagnetic near-field and quasi-isotropic far-field properties
+5. Mutual coupling reduction
+6. Potential applications in multi-input multi-output (MIMO) communication systems
+
+Sent"
+"Electromagnetic, atomic structure and chemistry changes induced by Ca-doping of low-angle YBa2Cu3O7–δgrain boundaries",https://www.nature.com/articles/nmat1394,"Practical high-temperature superconductors must be textured to minimize the reduction of the critical current densityJgbat misoriented grain boundaries. Partial substitution of Ca for Y in YBa2Cu3O7–δhas shown significant improvement inJgbbut the mechanisms are still not well understood. Here we report atomic-scale, structural and analytical electron microscopy combined with transport measurements on 7° [001]-tilt Y0.7Ca0.3Ba2Cu3O7–δand YBa2Cu3O7–δgrain boundaries, where the dislocation cores are well separated. We show that the enhanced carrier density, higherJgband weaker superconductivity depression at the Ca-doped boundary result from a strong, non-monotonic Ca segregation and structural rearrangements on a scale of∼1 nm near the dislocation cores. We propose a model of the formation of Ca2+solute atmospheres in the strain and electric fields of the grain boundary and show that Ca doping expands the dislocation cores yet enhancesJgbby improving the screening and local hole concentration.",2005,"Summary:
+The text discusses the importance of texturing high-temperature superconductors to improve critical current density at grain boundaries. It explores the effects of Ca substitution for Y in YBa2Cu3O7–δ superconductors on critical current density and superconductivity. The study utilizes atomic-scale electron microscopy and transport measurements to analyze the structural and electrical properties of Y0.7Ca0.3Ba2Cu3O7–δ and YBa2Cu3O7–δ grain boundaries. The results suggest that Ca doping enhances critical current density by influencing carrier density, superconductivity, and structural rearrangements near dislocation cores.
+
+Key topics:
+1. High-temperature superconductors
+2. Texturing and grain boundaries
+3. Ca substitution in YBa2Cu3O7–δ superconductors
+4. Atomic-scale electron microscopy
+5. Transport measurements
+6. Carrier density and superconductivity
+7. Structural rearrangements at grain boundaries"
+Electromagnetic Waves from Very Dense Stars,https://www.nature.com/articles/203914a0,"Giacconi, R., Gursky, H., Paolini, F. R., and Rossi, B. B.,Phys. Rev. Letters,9, 439 (1962).ArticleADSGoogle ScholarGiacconi, R., Gursky, H., Paolini, F. R., and Rossi, B. B.,Phys. Rev. Letters,11, 530 (1963).ArticleADSGoogle ScholarBower, S., Byram, E. T., Chubb, T. A., and Friedman, H. Paper presented at the one hundred and fifteenth meeting of the American Astronomical Society, Washington, D.C. (1963).Chiu, H. Y.,Supernovae, Neutrinos, and Neutron Stars(preprint from Princeton Institute for Space Studies, New York, 1963.)MATHGoogle ScholarMorton, D. C.,Neutron Stars as X-ray Sources(preprint from Princeton University Observatory, 1964).MATHGoogle ScholarOppenheimer, J. R., and Volkoff, G. M.,Phys. Rev.,55, 374 (1939).ArticleCASADSGoogle ScholarSaakyan, G. S.,Soviet A. J.,1, 60 (1963).ADSGoogle ScholarHoyle, F., and Fowler, W. A.,Astrophys.,132, 565 (1960).ArticleCASADSGoogle ScholarGinzburg, V. L.,Doklady Acad. Sci., U.S.S.R., No. 1, 156 (1964).Hoyle, F., Fowler, W. A., Burbidge, G. R., and Burbidge, E. M.,Astrophys. J.,139, 909 (1964).ArticleADSGoogle ScholarDownload references",1964,"Summary:
+The text consists of various references to scientific papers and preprints related to astrophysics, particularly focusing on topics such as X-ray sources, neutron stars, supernovae, and neutrinos. The references span from the 1930s to the 1960s and include works by prominent scientists in the field.
+
+Key Topics:
+1. X-ray sources
+2. Neutron stars
+3. Supernovae
+4. Neutrinos
+5. Astrophysics
+
+Sentiment Analysis:
+The text does not convey any specific sentiment as it primarily lists references to scientific papers and preprints without providing detailed content from the works."
+Electromagnetic reprogrammable coding-metasurface holograms,https://www.nature.com/articles/s41467-017-00164-9,"Metasurfaces have enabled a plethora of emerging functions within an ultrathin dimension, paving way towards flat and highly integrated photonic devices. Despite the rapid progress in this area, simultaneous realization of reconfigurability, high efficiency, and full control over the phase and amplitude of scattered light is posing a great challenge. Here, we try to tackle this challenge by introducing the concept of a reprogrammable hologram based on 1-bit coding metasurfaces. The state of each unit cell of the coding metasurface can be switched between ‘1’ and ‘0’ by electrically controlling the loaded diodes. Our proof-of-concept experiments show that multiple desired holographic images can be realized in real time with only a single coding metasurface. The proposed reprogrammable hologram may be a key in enabling future intelligent devices with reconfigurable and programmable functionalities that may lead to advances in a variety of applications such as microscopy, display, security, data storage, and information processing.",2017,"Summary:
+The text discusses the challenges in achieving reconfigurability, high efficiency, and full control over the phase and amplitude of scattered light in metasurfaces. The authors propose a solution by introducing a reprogrammable hologram based on 1-bit coding metasurfaces. They demonstrate through proof-of-concept experiments that multiple holographic images can be realized in real time with a single coding metasurface. The potential applications of this technology include microscopy, display, security, data storage, and information processing.
+
+Key Topics:
+1. Metasurfaces and their functions in photonic devices
+2. Challenges in achieving reconfigurability and control over scattered light
+3. Reprogrammable holograms using 1-bit coding metasurfaces
+4. Electrically controlled loaded diodes for switching unit cell states
+5. Real-time realization of multiple holographic images
+6. Potential applications in various fields
+
+Sentiment Analysis:
+The overall sentiment in the text is"
+Tailored compliant mechanisms for reconfigurable electromagnetic devices,https://www.nature.com/articles/s41467-023-36143-6,"Reconfigurable electromagnetic devices, specifically reconfigurable antennas, have shown to be integral to the future of communication systems. However, mechanically robust designs that can survive real-world, harsh environment applications and high-power conditions remain rare to this day. In this paper, the general framework for a field of both discrete and continuously mechanically reconfigurable devices is established by combining compliant mechanisms with electromagnetics. To exemplify this new concept, a reconfigurable compliant mechanism antenna is demonstrated which exhibits continuously tunable performance across a broad band of frequencies. Moreover, three additional examples are also introduced that further showcase the versatility and advanced capabilities of compliant mechanism enabled electromagnetic devices. Unlike previous approaches, this is achieved with minimal part counts, additive manufacturing techniques, and high reliability, which mechanical compliant mechanism devices are known for. The results presented exemplify how compliant mechanisms have the capacity to transform the broader field of reconfigurable electromagnetic devices.",2023,"Summary:
+The text discusses the importance of reconfigurable electromagnetic devices, specifically reconfigurable antennas, in communication systems. It highlights the challenges of creating mechanically robust designs that can withstand harsh environments and high-power conditions. The paper introduces a framework for designing both discrete and continuously mechanically reconfigurable devices by combining compliant mechanisms with electromagnetics. It presents a reconfigurable compliant mechanism antenna as an example, demonstrating continuously tunable performance across a wide range of frequencies. The text also introduces three additional examples to showcase the versatility and advanced capabilities of compliant mechanism-enabled electromagnetic devices.
+
+Key Topics:
+1. Importance of reconfigurable electromagnetic devices in communication systems
+2. Challenges in creating mechanically robust designs for harsh environments and high-power conditions
+3. Framework for designing mechanically reconfigurable devices using compliant mechanisms and electromagnetics
+4. Demonstration of a reconfigurable compliant mechanism antenna and additional examples of compliant mechanism-enabled electromagnetic devices
+5. Minimal part counts, additive manufacturing techniques, and high reliability in"
+Comparison of pulsed and continuous electromagnetic field generated by WPT system on human dermal and neural cells,https://www.nature.com/articles/s41598-024-56051-z,"In recent decades, we have seen significant technical progress in the modern world, leading to the widespread use of telecommunications systems, electrical appliances, and wireless technologies. These devices generate electromagnetic radiation (EMR) and electromagnetic fields (EMF) most often in the extremely low frequency or radio-frequency range. Therefore, they were included in the group of environmental risk factors that affect the human body and health on a daily basis. In this study, we tested the effect of exposure EMF generated by a new prototype wireless charging system on four human cell lines (normal cell lines—HDFa, NHA; tumor cell lines—SH-SY5Y, T98G). We tested different operating parameters of the wireless power transfer (WPT) device (87–207 kHz, 1.01–1.05 kW, 1.3–1.7 mT) at different exposure times (pulsed 6 × 10 min; continuous 1 × 60 min). We observed the effect of EMF on cell morphology and cytoskeletal changes, cell viability and mitotic activity, cytotoxicity, genotoxicity, and oxidative stress. The results of our study did not show any negative effect of the generated EMF on either normal cells or tumor cell lines. However, in order to be able to estimate the risk, further population and epidemiological studies are needed, which would reveal the clinical consequences of EMF impact.",2024,"Summary:
+The text discusses the impact of electromagnetic radiation (EMR) and electromagnetic fields (EMF) generated by modern technologies on human health. The study tested the effect of EMF from a wireless charging system on four human cell lines, observing various parameters such as cell morphology, viability, genotoxicity, and oxidative stress. The results indicated no negative effects on the cell lines tested. However, the study suggests the need for further population and epidemiological studies to fully understand the clinical consequences of EMF exposure.
+
+Key Topics:
+1. Electromagnetic radiation and fields
+2. Wireless charging technology
+3. Impact on human cell lines
+4. Cell morphology, viability, genotoxicity, and oxidative stress
+5. Need for further research on clinical consequences
+
+Sentiment Analysis:
+The overall sentiment of the text appears to be neutral, focusing on presenting the findings of the study without expressing a strong positive or negative sentiment. The text emphasizes the need for additional research to better understand the potential risks"
+An electromagnetic robot for navigating medical devices,https://www.nature.com/articles/s44222-024-00174-5,"The Navion, a clinical-scale electromagnetic navigation system, is the result of over 20 years of development. Its motivation began in 2003 with the goal of controlling the motion of magnetic microrobots; however, its first clinical use is proving to be for guiding magnetic catheters, guidewires and endoscopes.",2024,"Summary:
+The text discusses the development of the Navion, a clinical-scale electromagnetic navigation system that has been in development for over 20 years. Originally designed to control magnetic microrobots, the system is now being used for guiding magnetic catheters, guidewires, and endoscopes in clinical settings.
+
+Key Topics:
+1. Development of the Navion system
+2. Motivation behind the system's creation
+3. Clinical applications of the system
+4. Evolution from microrobot control to guiding catheters and endoscopes
+
+Sentiment Analysis:
+The text conveys a positive sentiment towards the Navion system, highlighting its evolution and successful clinical use for guiding medical devices. The tone is informative and neutral, focusing on the system's development history and current applications."
+Self-vectoring electromagnetic soft robots with high operational dimensionality,https://www.nature.com/articles/s41467-023-35848-y,"Soft robots capable of flexible deformations and agile locomotion similar to biological systems are highly desirable for promising applications, including safe human-robot interactions and biomedical engineering. Their achievable degree of freedom and motional deftness are limited by the actuation modes and controllable dimensions of constituent soft actuators. Here, we report self-vectoring electromagnetic soft robots (SESRs) to offer new operational dimensionality via actively and instantly adjusting and synthesizing the interior electromagnetic vectors (EVs) in every flux actuator sub-domain of the robots. As a result, we can achieve high-dimensional operation with fewer actuators and control signals than other actuation methods. We also demonstrate complex and rapid 3D shape morphing, bioinspired multimodal locomotion, as well as fast switches among different locomotion modes all in passive magnetic fields. The intrinsic fast (re)programmability of SESRs, along with the active and selective actuation through self-vectoring control, significantly increases the operational dimensionality and possibilities for soft robots.",2023,"Summary:
+The text discusses the development of self-vectoring electromagnetic soft robots (SESRs) that can achieve high-dimensional operation with fewer actuators and control signals compared to other actuation methods. These robots are capable of complex 3D shape morphing, bioinspired multimodal locomotion, and rapid switches among different locomotion modes in passive magnetic fields. The authors highlight the potential applications of SESRs in safe human-robot interactions and biomedical engineering.
+
+Key Topics:
+1. Soft robots with flexible deformations and agile locomotion
+2. Self-vectoring electromagnetic soft robots (SESRs)
+3. Actuation modes and controllable dimensions of soft actuators
+4. High-dimensional operation with fewer actuators and control signals
+5. 3D shape morphing and multimodal locomotion in passive magnetic fields
+6. Applications in safe human-robot interactions and biomedical engineering
+
+Sentiment Analysis:
+The text conveys a positive sentiment towards the development of SESRs, emphasizing their potential"
+Electromagnetic Observations of Carotid Blood Flow Changes in the Conscious Rat in Response to Sensory Stimuli,https://www.nature.com/articles/201573a0,"Kolin, A., and Kado, R. T.,Proc. U.S. Nat. Acad. Sci.,45, 1312 (1959).ArticleADSCASGoogle ScholarGlasser, O.,Medical Phys.,3, 141 (1960).Google ScholarRyan, D. P.,IEEE, Trans. Biomed. Electr.,10, 57 (1963).CASGoogle ScholarKolin, A.,Science,130, 1088 (1959).ArticleADSCASGoogle ScholarKolin, A., and Wisshaupt, R.,IEEE, Trans. Biomed. Electr.,10, 60 (1963).Google ScholarCox, P., Arora, H., and Kolin, A.,IEEE, Trans. Biomed. Electr.(in the press).Download references",1964,"Summary:
+The text contains references to various scientific articles published in the late 1950s and early 1960s in the fields of physics, medical physics, and biomedical electronics. The authors mentioned include Kolin, Kado, Glasser, Ryan, Wisshaupt, Cox, and Arora. The articles were published in journals such as Proceedings of the U.S. National Academy of Sciences, Science, IEEE Transactions on Biomedical Electronics, and Medical Physics.
+
+Key Topics:
+1. Physics
+2. Medical Physics
+3. Biomedical Electronics
+4. Proceedings of the U.S. National Academy of Sciences
+5. IEEE Transactions
+
+Sentiment Analysis:
+The text does not contain any specific sentiment to analyze as it primarily lists references to scientific articles."
+Direct observation of ideal electromagnetic fluids,https://www.nature.com/articles/s41467-022-32187-2,"Near-zero-index (NZI) media have been theoretically identified as media where electromagnetic radiations behave like ideal electromagnetic fluids. Within NZI media, the electromagnetic power flow obeys equations similar to those of motion for the velocity field in an ideal fluid, so that optical turbulence is intrinsically inhibited. Here, we experimentally observe the electromagnetic power flow distribution of such an ideal electromagnetic fluid propagating within a cutoff waveguide by a semi-analytical reconstruction technique. This technique provides direct proof of the inhibition of electromagnetic vorticity at the NZI frequency, even in the presence of complex obstacles and topological changes in the waveguide. Phase uniformity and spatially-static field distributions, essential characteristics of NZI materials, are also observed. Measurement of the same structure outside the NZI frequency range reveals existence of vortices in the power flow, as expected for conventional optical systems. Therefore, our results provide an important step forward in the development of ideal electromagnetic fluids, and introduce a tool to explore the subwavelength behavior of NZI media including fully vectorial and phase information.",2022,"Summary:
+The text discusses the concept of Near-zero-index (NZI) media, where electromagnetic radiations behave like ideal electromagnetic fluids. The study presents experimental observations of the electromagnetic power flow distribution within a cutoff waveguide using a semi-analytical reconstruction technique. The results demonstrate the inhibition of electromagnetic vorticity at the NZI frequency, even in the presence of obstacles and topological changes. The study highlights the phase uniformity and spatially-static field distributions as essential characteristics of NZI materials. The findings contribute to the development of ideal electromagnetic fluids and provide a tool to study the subwavelength behavior of NZI media.
+
+Key Topics:
+1. Near-zero-index (NZI) media
+2. Electromagnetic power flow distribution
+3. Ideal electromagnetic fluids
+4. Inhibition of electromagnetic vorticity
+5. Phase uniformity and spatially-static field distributions
+6. Experimental observations in a cutoff waveguide
+7. Development of NZI materials
+8. Subwavelength"
+Improved adaptive regularization for simulated annealing inversion of transient electromagnetic,https://www.nature.com/articles/s41598-024-55710-5,"Geophysical inversion usually involves ill-posed problem. Regularization is the most commonly used method to mitigate this problem. There are many regularization parameter selection methods, among which the adaptive regularization method can automatically update parameters during iteration, reducing the difficulty of parameter selection. Therefore, it is widely used in linear inversion. However, there are very few studies on the use of adaptive regularization methods in stochastic optimization algorithms. The biggest difficulty is that in stochastic optimization algorithms, the search direction of any iteration is completely random. Data fitting term and stabilizing term vary in a wide range, making it difficult for traditional methods to work. In this paper, we consider the contributions of the data fitting term and the stabilizing term in the objective function and give an improved adaptive regularization method for very fast simulated annealing (VFSA) inversion for transient electromagnetic (TEM) data. The optimized method adjusts the two terms dynamically to make them in balance. We have designed several numerical experiments, and the experimental results demonstrate that the method in this paper not only accelerates the convergence, but also the inversion results are very little affected by the initial regularization parameter. Finally, we apply this method to field data, and the inversion results show very good agreements with nearby borehole data.",2024,"Summary:
+The text discusses the challenges of geophysical inversion, particularly in the context of ill-posed problems. It highlights the importance of regularization methods in mitigating these challenges, with a focus on adaptive regularization methods that automatically update parameters during iteration. The text introduces an improved adaptive regularization method for very fast simulated annealing (VFSA) inversion for transient electromagnetic (TEM) data, aiming to balance the data fitting and stabilizing terms in the objective function. The method is tested through numerical experiments and field data applications, showing promising results in terms of convergence acceleration and agreement with borehole data.
+
+Key Topics:
+1. Geophysical inversion and ill-posed problems
+2. Regularization methods and parameter selection
+3. Adaptive regularization methods in linear inversion
+4. Challenges of applying adaptive regularization in stochastic optimization algorithms
+5. Improved adaptive regularization method for VFSA inversion for TEM data
+6. Balancing data fitting and stabilizing terms in the objective function
+7. Numerical experiments and field data applications"
+Unique Huygens-Fresnel electromagnetic transportation of chiral Dirac wavelet in topological photonic crystal,https://www.nature.com/articles/s41467-023-38325-8,"Light propagates in various ways depending on environment, including uniform medium, surface/interface and photonic crystals, which appears ubiquitously in daily life and has been exploited for advanced optics technology. We unveiled that a topological photonic crystal exhibits unique electromagnetic (EM) transport properties originating from the Dirac frequency dispersion and multicomponent spinor eigenmodes. Measuring precisely local Poynting vectors in microstrips of honeycomb structure where optics topology emerges upon a band gap opening in the Dirac dispersion and ap-dband inversion induced by a Kekulé-type distortion respectingC6vsymmetry, we showed that a chiral wavelet induces a global EM transportation circulating in the direction counter to the source, which is intimately related to the topological band gap specified by a negative Dirac mass. This brand-new Huygens-Fresnel phenomenon can be considered as the counterpart of negative refraction of EM plane waves associated with upwardly convex dispersions of photonic crystals, and our present finding is expected to open a new window for photonic innovations.",2023,"Summary:
+The text discusses the behavior of light propagation in different environments, such as uniform medium, surface/interface, and photonic crystals. It focuses on the unique electromagnetic transport properties of a topological photonic crystal, which exhibit characteristics like Dirac frequency dispersion and multicomponent spinor eigenmodes. The study involves measuring Poynting vectors in microstrips of honeycomb structure to understand the chiral wavelet-induced global electromagnetic transportation. The findings suggest a new Huygens-Fresnel phenomenon that could lead to innovations in photonic technologies.
+
+Key Topics:
+1. Light propagation in different environments
+2. Topological photonic crystals and their unique electromagnetic transport properties
+3. Dirac frequency dispersion and multicomponent spinor eigenmodes
+4. Measurement of Poynting vectors in microstrips of honeycomb structure
+5. Chiral wavelet-induced global electromagnetic transportation
+6. Huygens-Fresnel phenomenon and negative Dirac mass
+7. Photonic innovations"
+Highly confined epsilon-near-zero and surface phonon polaritons in SrTiO3membranes,https://www.nature.com/articles/s41467-024-47917-x,"Recent theoretical studies have suggested that transition metal perovskite oxide membranes can enable surface phonon polaritons in the infrared range with low loss and much stronger subwavelength confinement than bulk crystals. Such modes, however, have not been experimentally observed so far. Here, using a combination of far-field Fourier-transform infrared (FTIR) spectroscopy and near-field synchrotron infrared nanospectroscopy (SINS) imaging, we study the phonon polaritons in a 100 nm thick freestanding crystalline membrane of SrTiO3transferred on metallic and dielectric substrates. We observe a symmetric-antisymmetric mode splitting giving rise to epsilon-near-zero and Berreman modes as well as highly confined (by a factor of 10) propagating phonon polaritons, both of which result from the deep-subwavelength thickness of the membranes. Theoretical modeling based on the analytical finite-dipole model and numerical finite-difference methods fully corroborate the experimental results. Our work reveals the potential of oxide membranes as a promising platform for infrared photonics and polaritonics.",2024,"Summary:
+The text discusses a study on transition metal perovskite oxide membranes that suggests the potential for enabling surface phonon polaritons in the infrared range with low loss and strong subwavelength confinement. The researchers used far-field Fourier-transform infrared spectroscopy and near-field synchrotron infrared nanospectroscopy to study phonon polaritons in a thin SrTiO3 membrane transferred onto different substrates. The study observed symmetric-antisymmetric mode splitting, epsilon-near-zero and Berreman modes, and highly confined propagating phonon polaritons due to the thinness of the membranes. Theoretical modeling supported the experimental findings, highlighting the potential of oxide membranes for infrared photonics and polaritonics.
+
+Key Topics:
+1. Transition metal perovskite oxide membranes
+2. Surface phonon polaritons in the infrared range
+3. Experimental observation of phonon polaritons in SrTiO3 membranes
+4. Symmetric-antisymmetric mode"
+Natural Resources of the Moon,https://www.nature.com/articles/195423a0,"Vestine, E. H.,RAND Res. Mem., 2106 (1958).Green, J.,Geophysics as Applied to Lunar Exploration, Final Report under ContractAF19(604)–5886,AFCRL–TR–60–409 (1960).Watson, K., Murray, G., and Brown, H.,J. Geophys. Res.,66, 1598 (1961).ArticleADSGoogle ScholarKozyrev, N.,Sky and Telescope,18, 184 (1959).ADSGoogle ScholarUrey, H. C.,Astrophys. J.,134, 268 (1961).ArticleADSCASGoogle ScholarBaldwin, N. B.,The Face of the Moon(Univ. Chicago Press, 1949).Google ScholarHibbs, A. R.,Planetary and Space Sci.,8, 121 (1961).ArticleADSGoogle ScholarMezger, P. S., and Strassel, H.,Planetary and Space Sci.,1, 213 (1959).ArticleADSGoogle ScholarMedd, W. J., and Broten, N. W.,Planetary and Space Sci.,5, 307 (1961).ArticleADSGoogle ScholarBaldwin, J. E.,Mon. Not. Roy. Astro. Soc.,122, 513 (1961).ArticleADSGoogle ScholarSalisbury, J. W.,Astrophys. J.,134, 126 (1961).ArticleADSGoogle ScholarBulow, K.,Tektonische Analyse der Mondrinde: Geologie,6/7, 565 (1958).Google ScholarFielder, G.,Lunar-Planetary Exploration Colloquium,1, No. 4, 14 (1959).Google ScholarHackman, R. J.,Generalized Photogeologic Map of the Moon.Scale 1 : 3,800,000: Photogeologic Map No. 7–60, printed by the Army Map Service, Corps of Engineers (1960).Press, F., Buwalda, P., and Neugebauer, M.,J. Geophys. Res.,65, 3097 (1960).ArticleADSGoogle ScholarDownload references",1962,"Summary:
+The text is a list of references related to various scientific studies and publications on lunar exploration, geophysics, planetary science, and astrophysics. The references cover a range of topics including lunar geology, photogeologic mapping of the Moon, and planetary exploration. The publications span from the late 1940s to the early 1960s.
+
+Key Topics:
+- Lunar exploration
+- Geophysics
+- Planetary science
+- Astrophysics
+- Photogeologic mapping
+- Lunar geology
+
+Sentiment Analysis:
+The text does not contain explicit sentiment or opinions as it is a list of references."
+Electric field correlation measurements on the electromagnetic vacuum state,https://www.nature.com/articles/s41586-019-1083-9,"Quantum mechanics ascribes to the ground state of the electromagnetic radiation1zero-point electric field fluctuations that permeate empty space at all frequencies. No energy can be extracted from the ground state of a system, and therefore these fluctuations cannot be measured directly with an intensity detector. The experimental proof of their existence therefore came from more indirect evidence, such as the Lamb shift2,3,4, the Casimir force between close conductors5,6,7or spontaneous emission1,8. A direct method of determining the spectral characteristics of vacuum field fluctuations has so far been missing. Here we perform a direct measurement of the field correlation on these fluctuations in the terahertz frequency range by using electro-optic detection9in a nonlinear crystal placed in a cryogenic environment. We investigate their temporal and spatial coherence, which, at zero time delay and spatial distance, has a peak value of 6.2 × 10−2volts squared per square metre, corresponding to a fluctuating vacuum field10,11of 0.25 volts per metre. With this measurement, we determine the spectral components of the ground state of electromagnetic radiation within the bandwidth of our electro-optic detection.",2019,"Summary:
+The text discusses the concept of zero-point electric field fluctuations in quantum mechanics, which exist in the ground state of electromagnetic radiation even in empty space. These fluctuations cannot be directly measured with intensity detectors, but their existence has been indirectly proven through phenomena like the Lamb shift, Casimir force, and spontaneous emission. The text presents a new method for directly measuring these field fluctuations in the terahertz frequency range using electro-optic detection in a cryogenic environment. The study investigates the temporal and spatial coherence of these fluctuations and determines their spectral characteristics within the bandwidth of the detection method.
+
+Key Topics:
+1. Quantum mechanics and zero-point electric field fluctuations
+2. Indirect evidence for the existence of vacuum field fluctuations
+3. Direct measurement method using electro-optic detection in a cryogenic environment
+4. Temporal and spatial coherence of vacuum field fluctuations
+5. Spectral characteristics of the ground state of electromagnetic radiation
+
+Sentiment Analysis:
+The text is written in a neutral and informative tone,"
+Optimizing an electromagnetic wave absorber for bi-anisotropic metasurfaces based on toroidal modes,https://www.nature.com/articles/s41598-024-59503-8,"The design and optimization of an electromagnetic wave absorber for far-field wireless power transmission (WPT) is the subject of this research study. The goal of the research is to effectively absorb energy from ambient RF electromagnetic waves without the usage of a ground plane by employing metasurfaces with chiral components.By integrating trioidal moments into the design theory, the objective is to create a metasurface that functions in two frequency bands and produces high-quality resonance. The study also explores the dual non-homogeneity property of structures, polarization tensor coefficients, and the electromagnetic response of non-homogeneous metasurfaces. Based on the relative orientation of induced fields and moments, it delves deeper into the two basic possibilities for dual non-homogeneous elements. The development of chiral metasurfaces and the notion of electromagnetic chirality and its implications for polarization properties are introduced.",2024,"Summary:
+The research study focuses on designing and optimizing an electromagnetic wave absorber for far-field wireless power transmission without the use of a ground plane. The study explores the integration of chiral components into metasurfaces to effectively absorb energy from ambient RF electromagnetic waves. It also delves into the use of trioidal moments in the design theory to create a metasurface that operates in two frequency bands with high-quality resonance. Additionally, the study investigates the dual non-homogeneity property of structures, polarization tensor coefficients, and the electromagnetic response of non-homogeneous metasurfaces. The development of chiral metasurfaces and the concept of electromagnetic chirality and its impact on polarization properties are also discussed.
+
+Key Topics:
+1. Electromagnetic wave absorber design for wireless power transmission
+2. Metasurfaces with chiral components
+3. Trioidal moments in design theory
+4. Dual non-homogeneity property of structures
+5. Polarization tensor coefficients
+6"
+Optical manipulation of the charge-density-wave state in RbV3Sb5,https://www.nature.com/articles/s41586-024-07519-5,"Broken time-reversal symmetry in the absence of spin order indicates the presence of unusual phases such as orbital magnetism and loop currents1,2,3,4. The recently discovered kagome superconductors AV3Sb5(where A is K, Rb or Cs)5,6display an exotic charge-density-wave (CDW) state and have emerged as a strong candidate for materials hosting a loop current phase. The idea that the CDW breaks time-reversal symmetry7,8,9,10,11,12,13,14is, however, being intensely debated due to conflicting experimental data15,16,17. Here we use laser-coupled scanning tunnelling microscopy to study RbV3Sb5. By applying linearly polarized light along high-symmetry directions, we show that the relative intensities of the CDW peaks can be reversibly switched, implying a substantial electro-striction response, indicative of strong nonlinear electron–phonon coupling. A similar CDW intensity switching is observed with perpendicular magnetic fields, which implies an unusual piezo-magnetic response that, in turn, requires time-reversal symmetry breaking. We show that the simplest CDW that satisfies these constraints is an out-of-phase combination of bond charge order and loop currents that we dub a congruent CDW flux phase. Our laser scanning tunnelling microscopy data open the door to the possibility of dynamic optical control of complex quantum phenomenon in correlated materials.",2024,"Summary:
+The text discusses the presence of broken time-reversal symmetry in materials like kagome superconductors AV3Sb5, which exhibit exotic phases such as orbital magnetism and loop currents. The CDW state in these materials is debated due to conflicting experimental data. The authors used laser-coupled scanning tunnelling microscopy to study RbV3Sb5 and found that CDW peaks can be reversibly switched using linearly polarized light and magnetic fields, indicating strong electron-phonon coupling and time-reversal symmetry breaking. They propose a new CDW phase called a congruent CDW flux phase, which combines bond charge order and loop currents.
+
+Key Topics:
+1. Broken time-reversal symmetry and exotic phases in materials
+2. Kagome superconductors AV3Sb5 and CDW state
+3. Laser-coupled scanning tunnelling microscopy
+4. Electron-phonon coupling and time-reversal symmetry breaking"
+The development of the soderberg electrolyzer electromagnetic field’s state monitoring system,https://www.nature.com/articles/s41598-024-52002-w,"This study is devoted to improving the economic efficiency of the cell, due to the field of the generated electromagnetic field’s accurate diagnostics. To solve this problem, the authors had developed a hardware-software complex for electromagnetic field diagnostics. This complex includes a measurement device and a software package for data collection and analysis. On the laboratory prototype of the aluminum electrolysis complex, a study was carried out on the formation and structure of the electromagnetic field. A number of experiments have been carried out showing the degree of formation of the electromagnetic field by the anode, the relationship of electromagnetic fields in the inter-anode space has been shown. Based on the results of the studies, conclusions were drawn about the possibility of diagnosing the current state of the anode, determining the direction of rotation of aluminum in the electrolytic cell and estimating the life of the anode and its burnout time.",2024,"Summary:
+The study focuses on enhancing the economic efficiency of cells by diagnosing the generated electromagnetic field accurately. The authors developed a hardware-software complex for electromagnetic field diagnostics, comprising a measurement device and software for data analysis. Experiments on an aluminum electrolysis complex prototype were conducted to investigate the electromagnetic field's formation and structure. The research highlighted the anode's electromagnetic field formation, inter-anode space electromagnetic field relationships, and proposed diagnostic capabilities for the anode's current state, aluminum rotation direction, and anode lifespan estimation.
+
+Key Topics:
+1. Economic efficiency of cells
+2. Electromagnetic field diagnostics
+3. Hardware-software complex development
+4. Aluminum electrolysis complex
+5. Anode's electromagnetic field formation
+6. Inter-anode space electromagnetic fields
+7. Diagnostic capabilities for anode state and lifespan estimation
+
+Sentiment Analysis:
+The text conveys a positive sentiment as it discusses the development of a complex for electromagnetic field diagnostics and the successful experiments conducted to understand the"
+Supertoroidal light pulses as electromagnetic skyrmions propagating in free space,https://www.nature.com/articles/s41467-021-26037-w,"Topological complex transient electromagnetic fields give access to nontrivial light-matter interactions and provide additional degrees of freedom for information transfer. An important example of such electromagnetic excitations are space-time non-separable single-cycle pulses of toroidal topology, the exact solutions of Maxwell’s equations described by Hellwarth and Nouchi in 1996 and recently observed experimentally. Here we introduce an extended family of electromagnetic excitation, the supertoroidal electromagnetic pulses, in which the Hellwarth-Nouchi pulse is just the simplest member. The supertoroidal pulses exhibit skyrmionic structure of the electromagnetic fields, multiple singularities in the Poynting vector maps and fractal-like distributions of energy backflow. They are of interest for transient light-matter interactions, ultrafast optics, spectroscopy, and toroidal electrodynamics.",2021,"Summary:
+The text discusses the concept of topological complex transient electromagnetic fields, specifically focusing on supertoroidal electromagnetic pulses as an extension of the previously known Hellwarth-Nouchi pulses. These pulses exhibit unique properties such as skyrmionic structure, singularities in Poynting vector maps, and fractal-like energy distributions. The study highlights the relevance of these electromagnetic excitations in various fields including transient light-matter interactions, ultrafast optics, spectroscopy, and toroidal electrodynamics.
+
+Key Topics:
+1. Topological complex transient electromagnetic fields
+2. Supertoroidal electromagnetic pulses
+3. Hellwarth-Nouchi pulses
+4. Skyrmionic structure
+5. Poynting vector maps
+6. Energy backflow distributions
+7. Transient light-matter interactions
+8. Ultrafast optics
+9. Spectroscopy
+10. Toroidal electrodynamics
+
+Sentiment Analysis:
+The text conveys a positive and enthusiastic tone towards the"
+Modeling of electromagnetic propagation inside jet engine environment using statistical electromagnetic approach,https://www.nature.com/articles/s41598-024-53529-8,"In this paper, the distribution of the electromagnetic field inside a complex jet engine environment is analyzed using statistical electromagnetics. The jet engine environment is an extremely complex geometry and exhibits random behavior due to the presence of moving metallic parts. This renders traditional analytical and simulation modeling techniques highly inefficient. To address this issue, two different approaches are proposed to model the propagation characteristics of the jet engine environment. The first is an innovative dynamic system approach based on dynamic system simulation which is inspired by the analysis of mechanically stirred reverberation chambers. In the dynamic system simulation the dynamic system, which is characterized by the rotation of a distinct set of blades, is primarily studied through the simulation program. A dimension scaling method is also introduced along with the dynamic system simulation to solve the complex jet engine environment. In the second approach, a novel statistical excitation method is applied to develop an equivalent model for the dynamic jet engine system. The studied jet engine is considered as a static jet engine system without blade rotation (static blades), but with a random excitation.A small signal analysis method is used to integrate the static and dynamic system parameters to generate random excitation characteristics of the static system. The extracted electric field values from the dynamic jet engine simulation environment and the static system field values from the small signal analysis have been analyzed statistically to prove the statistical equality between the two systems. The numerical results of the static system model are presented and verified through comparison with finite element method simulation packages.",2024,"Summary:
+The paper analyzes the distribution of the electromagnetic field within a complex jet engine environment using statistical electromagnetics. Traditional analytical and simulation modeling techniques are found to be inefficient due to the complex geometry and random behavior of the jet engine environment. Two approaches are proposed to model the propagation characteristics of the jet engine environment: a dynamic system approach based on dynamic system simulation and a statistical excitation method to develop an equivalent model for the dynamic jet engine system. The study compares the electric field values obtained from dynamic and static system models and validates the static system model through comparison with finite element method simulation packages.
+
+Key Topics:
+1. Distribution of electromagnetic field in a complex jet engine environment
+2. Statistical electromagnetics
+3. Dynamic system simulation
+4. Statistical excitation method
+5. Small signal analysis
+6. Comparison with finite element method simulation
+
+Sentiment Analysis:
+The text appears to be neutral in tone, focusing on the technical aspects of analyzing the electromagnetic field distribution within a jet engine environment using"
